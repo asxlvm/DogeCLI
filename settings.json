@@ -1,0 +1,10 @@
+{
+	"primary-color": "GREEN",
+	"secondary-color": "RED",
+	"on-whisper-bg-color": "YELLOW",
+	"on-mention-bg-color": "WHITE",
+	"on-whisper-fg-color": "BLACK",
+	"on-mention-fg-color": "BLACK",
+	"on-whisper-style": "BRIGHT",
+	"on-mention-style": "BRIGHT"
+}
